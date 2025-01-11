@@ -1,0 +1,18 @@
+**Resumo: Como Criar um Jogo da Forca**
+
+1. **Planejamento:**  
+   - Escolha um tema para as palavras (ex.: animais, filmes).  
+   - Defina o número de erros permitidos (geralmente 6 ou 7).  
+
+2. **Regras Básicas:**  
+   - O jogo escolhe uma palavra e mostra traços ("_") para cada letra.  
+   - O jogador chuta uma letra por vez:  
+     - Acerto: A letra é revelada.  
+     - Erro: Perde uma chance, e parte da forca aparece.  
+   - Vitória: Descobre todas as letras.  
+   - Derrota: Perde todas as chances.  
+
+3. **Etapas do Jogo:**  
+   - Selecione uma palavra.  
+   - Mostre o progresso do jogador (letras certas e erradas).  
+   - Atualize a forca a cada erro.  

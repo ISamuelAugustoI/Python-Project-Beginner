@@ -1,0 +1,5 @@
+perguntar ao computador qual e a escolha dele
+digite sua escolha
+o computador vai analisar quem ganhou
+escolha quantas rodadas
+no final diga quem venceu

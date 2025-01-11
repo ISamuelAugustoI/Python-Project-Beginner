@@ -1,0 +1,4 @@
+Adicionar tarefas: O jogador cria novas "missões".
+Listar tarefas: Exibe as missões em andamento.
+Concluir tarefas: Marca a missão como concluída e concede pontos.
+Excluir tarefas: Remove tarefas da lista.

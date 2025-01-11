@@ -1,0 +1,5 @@
+Permite usuario escrever os nomes
+Permite escolher quantos sorteados e quantos nomes
+[1º,2º,3º...Nº]
+Efeitos Sonoros
+Lista detalhada

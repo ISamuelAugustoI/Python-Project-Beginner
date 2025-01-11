@@ -1,0 +1,21 @@
+1. Estrutura do Jogo
+Tabuleiro: Um grid de 3x3 (geralmente representado por números ou espaços vazios).
+Jogadores: Dois jogadores (X e O) alternam suas jogadas.
+Objetivo: Alinhar 3 símbolos iguais (horizontalmente, verticalmente ou diagonalmente).
+2. Regras do Jogo
+O jogo começa com um tabuleiro vazio.
+Os jogadores escolhem quem será X e quem será O.
+Cada jogador escolhe uma célula (número ou coordenada) para marcar seu símbolo.
+Após cada jogada, o jogo verifica:
+Se algum jogador completou uma linha, coluna ou diagonal com 3 símbolos iguais.
+Se todas as células estão preenchidas (empate).
+O jogo termina quando:
+Um jogador vence.
+Não há mais jogadas possíveis (empate).
+3. Estrutura do Turno
+Exibir o Tabuleiro: Mostre o estado atual para os jogadores.
+Receber Jogada: O jogador escolhe uma posição disponível.
+Validar Jogada: Certifique-se de que a posição escolhida está dentro do tabuleiro e ainda não foi marcada.
+Atualizar Tabuleiro: Marque a jogada no grid.
+4. Condições de Vitória
+Cheque as 3 fileiras, 3 colunas e 2 diagonais para encontrar 3 símbolos iguais.

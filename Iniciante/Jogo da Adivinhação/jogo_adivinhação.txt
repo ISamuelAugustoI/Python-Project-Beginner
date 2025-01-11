@@ -1,0 +1,4 @@
+Gerar o número secreto: O jogo cria um número aleatório.
+Receber palpites: O jogador digita seus números.
+Comparar: Diga se o palpite está certo, alto ou baixo.
+Finalizar: Declare vitória ou derrota.

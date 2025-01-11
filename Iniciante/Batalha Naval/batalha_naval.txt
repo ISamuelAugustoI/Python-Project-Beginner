@@ -1,0 +1,21 @@
+Configuração do Tabuleiro:
+
+Criação de tabuleiros (normalmente matrizes ou listas bidimensionais) para os jogadores e/ou para a máquina.
+Posicionamento dos navios em locais aleatórios ou escolhidos pelo jogador.
+Definição das Regras:
+
+Estabelecer o tamanho do tabuleiro (geralmente 10x10).
+Determinar os tipos e tamanhos dos navios (e.g., porta-aviões, destróier).
+Jogabilidade:
+
+Alternância entre as jogadas dos jogadores ou entre o jogador e o computador.
+Cada jogada consiste em selecionar uma coordenada no tabuleiro para "atacar".
+Verificação do impacto: "acertou", "errou" ou "afundou" um navio.
+Feedback e Atualização do Tabuleiro:
+
+Atualizar o tabuleiro com o resultado da jogada (e.g., marcar "X" para acerto e "O" para erro).
+Mostrar o estado atualizado do tabuleiro ao jogador.
+Condições de Vitória:
+
+O jogo termina quando todos os navios de um jogador são destruídos.
+Declaração do vencedor.

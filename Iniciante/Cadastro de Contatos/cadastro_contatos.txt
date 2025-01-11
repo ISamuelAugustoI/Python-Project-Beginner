@@ -1,0 +1,13 @@
+Armazenamento:
+
+Contatos são armazenados em um dicionário onde a chave é o nome, e o valor é outro dicionário com os detalhes do contato.
+Funcionalidades:
+
+Adicionar: Adiciona um novo contato se o nome não existir.
+Visualizar: Mostra todos os contatos armazenados.
+Editar: Permite alterar informações de um contato existente.
+Excluir: Remove um contato pelo nome.
+Buscar: Realiza uma busca parcial ou completa no nome.
+Menu Principal:
+
+Oferece opções para navegar entre as funcionalidades e encerra o programa quando selecionado.
